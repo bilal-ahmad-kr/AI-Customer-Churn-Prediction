@@ -1,6 +1,6 @@
 # 🚀 ChurnFlow: AI Customer Churn Prediction Platform
 
-![Hero Image/Banner](https://via.placeholder.com/1200x400/4f46e5/ffffff?text=ChurnFlow+AI+Prediction)
+![Home](screenshots/Home.png)
 > *Note: Replace the placeholder image above with an actual screenshot of your Landing Page.*
 
 **ChurnFlow** is a modern, portfolio-quality web application powered by Machine Learning that predicts whether a customer is at risk of churning. It leverages a robust Logistic Regression model trained on telecommunications data, coupled with a blazingly fast FastAPI backend and a stunning, responsive React frontend.
@@ -22,11 +22,11 @@
 
 | Landing Page | Prediction Form |
 |--------------|-----------------|
-| ![Landing Page](https://via.placeholder.com/600x400/e0e7ff/4f46e5?text=Landing+Page+Screenshot) | ![Prediction Form](https://via.placeholder.com/600x400/e0e7ff/4f46e5?text=Form+Screenshot) |
+| ![Home](screenshots/Home.png) | ![Form](screenshots/Form.png)|
 
 | Result Analysis | Dark Mode UI |
 |-----------------|--------------|
-| ![Result Card](https://via.placeholder.com/600x400/e0e7ff/4f46e5?text=Result+Card+Screenshot) | ![Dark Mode](https://via.placeholder.com/600x400/1f2937/a5b4fc?text=Dark+Mode+Screenshot) |
+| ![Result](screenshots/Analytics.png) | ![Darkmode](screenshots/Darkmode.png) |
 
 *(Note: Replace these placeholders with your actual screenshots)*
 
